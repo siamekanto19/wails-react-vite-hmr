@@ -1,0 +1,32 @@
+{
+  "name": "temp",
+  "frontend:build": "npm run build",
+  "frontend:install": "npm install",
+  "assetdir": "frontend/dist",
+  "frontend:dev": "",
+  "frontend:dev:watcher": "npm run dev",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "temp",
+  "OutputType": "",
+  "Platform": "",
+  "runNonNativeBuildHooks": false,
+  "postBuildHooks": null,
+  "Author": {
+    "name": "Siam",
+    "email": "siam@evatix.com"
+  },
+  "Info": {
+    "companyName": "temp",
+    "productName": "temp",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright.........",
+    "comments": "Built using Wails (https://wails.app)"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": "",
+  "nsisType": ""
+}
