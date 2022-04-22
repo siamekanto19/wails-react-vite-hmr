@@ -10,7 +10,7 @@
   "version": "2",
   "Path": "",
   "BuildDir": "",
-  "outputfilename": "temp",
+  "outputfilename": "vite-app",
   "OutputType": "",
   "Platform": "",
   "runNonNativeBuildHooks": false,
