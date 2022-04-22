@@ -1,8 +1,9 @@
 {
-  "name": "temp",
+  "name": "vite-app",
+  "assetdir": "frontend/dist",
+  "reloaddirs": "frontend",
   "frontend:build": "npm run build",
   "frontend:install": "npm install",
-  "assetdir": "frontend/dist",
   "frontend:dev": "",
   "frontend:dev:watcher": "npm run dev",
   "wailsjsdir": "./frontend",
